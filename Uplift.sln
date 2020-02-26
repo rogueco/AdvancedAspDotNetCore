@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uplift", "Uplift.csproj", "{322B94A8-2A68-4CF1-B68A-50080ADB5F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322B94A8-2A68-4CF1-B68A-50080ADB5F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322B94A8-2A68-4CF1-B68A-50080ADB5F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322B94A8-2A68-4CF1-B68A-50080ADB5F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322B94A8-2A68-4CF1-B68A-50080ADB5F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
