@@ -1,32 +1,28 @@
 ﻿<Properties StartupConfiguration="{322B94A8-2A68-4CF1-B68A-50080ADB5F24}|Default">
-  <MonoDevelop.Ide.ItemProperties.Uplift.Utility FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
     <Files>
-      <File FileName="Startup.cs" Line="35" Column="77" />
+      <File FileName="Startup.cs" Line="13" Column="28" />
       <File FileName="Properties/launchSettings.json" />
-      <File FileName="Program.cs" Line="22" Column="18" />
-      <File FileName="Uplift.DataAccess/Class1.cs" Line="9" Column="1" />
-      <File FileName="Uplift.Models/Class1.cs" Line="9" Column="1" />
-      <File FileName="Uplift.Utility/Class1.cs" Line="9" Column="1" />
-      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="Areas/Customer/Views/_ViewStart.cshtml" />
+      <File FileName="Areas/Admin/Views/_ViewStart.cshtml" />
+      <File FileName="Areas/Customer/Controllers/HomeController.cs" />
+      <File FileName="Uplift.DataAccess/Data/ApplicationDbContext.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Uplift" expanded="True">
             <Node name="Uplift" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
-              </Node>
+              <Node name="Dependencies" selected="True" />
             </Node>
+            <Node name="Uplift.DataAccess" expanded="True" />
+            <Node name="Uplift.Models" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Uplift.Models FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Uplift PreferredExecutionTarget="/Applications/Google Chrome.app" />
@@ -34,5 +30,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Uplift.DataAccess FirstBuild="True" />
 </Properties>
