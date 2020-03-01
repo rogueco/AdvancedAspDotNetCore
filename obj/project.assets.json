@@ -4270,7 +4270,7 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
-      "sha512": "b+V9JC/Ii3sR659flBeaBJww111425tgjcDS1k+hqV4sGh9FALRDBvJnDtQ895gAzpPTUOFDHdqaZ2Et7BpZMg==",
+      "sha512": "INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
@@ -4377,7 +4377,7 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "T5NvFgmHX0WH4c7lP72krsnk+IJI10vJf2j2twGE+5QBRA4RyRAgD+ZjEgdmpLOjW4B+nZGaadewTCUcR899OQ==",
+      "sha512": "nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -6167,7 +6167,6 @@
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7597,6 +7596,7 @@
       "path": "system.threading.thread/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7938,31 +7938,29 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.csproj",
+      "projectUniqueName": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.csproj",
       "projectName": "Uplift",
-      "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.csproj",
+      "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.csproj",
       "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-      "outputPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/obj/",
+      "outputPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/tomfletcher/.config/NuGet/NuGet.Config"
+        "/Users/tomfletcher/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nexus3.barbondev.co.uk/nexus/repository/barbonnuget/": {},
-        "https://nexus3.barbondev.co.uk/nexus/repository/barbonnugets/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/Uplift.DataAccess.csproj": {
-              "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/Uplift.DataAccess.csproj"
+            "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/Uplift.DataAccess.csproj": {
+              "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/Uplift.DataAccess.csproj"
             }
           }
         }
@@ -8025,7 +8023,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
       }
     }
   }

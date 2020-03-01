@@ -14,25 +14,23 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/Uplift.Utility.csproj",
+      "projectUniqueName": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/Uplift.Utility.csproj",
       "projectName": "Uplift.Utility",
-      "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/Uplift.Utility.csproj",
+      "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/Uplift.Utility.csproj",
       "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-      "outputPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/obj/",
+      "outputPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/tomfletcher/.config/NuGet/NuGet.Config"
+        "/Users/tomfletcher/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nexus3.barbondev.co.uk/nexus/repository/barbonnuget/": {},
-        "https://nexus3.barbondev.co.uk/nexus/repository/barbonnugets/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -62,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
       }
     }
   }

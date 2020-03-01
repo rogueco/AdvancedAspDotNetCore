@@ -1,37 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.csproj": {}
+    "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.csproj": {}
   },
   "projects": {
-    "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.csproj": {
+    "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.csproj",
+        "projectUniqueName": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.csproj",
         "projectName": "Uplift",
-        "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.csproj",
+        "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.csproj",
         "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-        "outputPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/obj/",
+        "outputPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/tomfletcher/.config/NuGet/NuGet.Config"
+          "/Users/tomfletcher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnuget/": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnugets/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/Uplift.DataAccess.csproj": {
-                "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/Uplift.DataAccess.csproj"
+              "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/Uplift.DataAccess.csproj": {
+                "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/Uplift.DataAccess.csproj"
               }
             }
           }
@@ -94,41 +92,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/Uplift.DataAccess.csproj": {
+    "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/Uplift.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/Uplift.DataAccess.csproj",
+        "projectUniqueName": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/Uplift.DataAccess.csproj",
         "projectName": "Uplift.DataAccess",
-        "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/Uplift.DataAccess.csproj",
+        "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/Uplift.DataAccess.csproj",
         "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-        "outputPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.DataAccess/obj/",
+        "outputPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/tomfletcher/.config/NuGet/NuGet.Config"
+          "/Users/tomfletcher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnuget/": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnugets/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Models/Uplift.Models.csproj": {
-                "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Models/Uplift.Models.csproj"
+              "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Models/Uplift.Models.csproj": {
+                "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Models/Uplift.Models.csproj"
               },
-              "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/Uplift.Utility.csproj": {
-                "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/Uplift.Utility.csproj"
+              "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/Uplift.Utility.csproj": {
+                "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/Uplift.Utility.csproj"
               }
             }
           }
@@ -151,6 +147,12 @@
               "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.2, )"
             },
@@ -178,32 +180,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Models/Uplift.Models.csproj": {
+    "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Models/Uplift.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Models/Uplift.Models.csproj",
+        "projectUniqueName": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Models/Uplift.Models.csproj",
         "projectName": "Uplift.Models",
-        "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Models/Uplift.Models.csproj",
+        "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Models/Uplift.Models.csproj",
         "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-        "outputPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Models/obj/",
+        "outputPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Models/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/tomfletcher/.config/NuGet/NuGet.Config"
+          "/Users/tomfletcher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnuget/": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnugets/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -243,32 +243,30 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/Uplift.Utility.csproj": {
+    "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/Uplift.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/Uplift.Utility.csproj",
+        "projectUniqueName": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/Uplift.Utility.csproj",
         "projectName": "Uplift.Utility",
-        "projectPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/Uplift.Utility.csproj",
+        "projectPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/Uplift.Utility.csproj",
         "packagesPath": "/Users/tomfletcher/.nuget/packages/",
-        "outputPath": "/Users/tomfletcher/repos/Development/Tutorials/Udemy/AdvancedAspDotNetCore/Uplift.Utility/obj/",
+        "outputPath": "/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/Uplift.Utility/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/tomfletcher/.config/NuGet/NuGet.Config"
+          "/Users/tomfletcher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnuget/": {},
-          "https://nexus3.barbondev.co.uk/nexus/repository/barbonnugets/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -298,7 +296,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }
