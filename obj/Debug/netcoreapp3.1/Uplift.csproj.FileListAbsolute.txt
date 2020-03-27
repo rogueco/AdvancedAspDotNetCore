@@ -109,3 +109,5 @@
 /Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/bin/Debug/netcoreapp3.1/Uplift.DataAccess/bin/Debug/netcoreapp3.1/Uplift.DataAccess.runtimeconfig.json
 /Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/bin/Debug/netcoreapp3.1/Uplift.Models/bin/Debug/netcoreapp3.1/Uplift.Models.deps.json
 /Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/bin/Debug/netcoreapp3.1/Uplift.Utility/bin/Debug/netcoreapp3.1/Uplift.Utility.deps.json
+/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/obj/Debug/netcoreapp3.1/Uplift.csproj.CoreCompileInputs.cache
+/Users/tomfletcher/repos/Personal/Development/Udemy/AdvancedAspDotNetCoreMvc/Uplift/obj/Debug/netcoreapp3.1/Uplift.genruntimeconfig.cache
